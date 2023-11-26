@@ -18,6 +18,13 @@ Here are some examples on how we added the data:
 
 For Visualtion section of our project we did some bar graphs
 Nathan: 
+The first graph explores the relationship between depression and treatment, showing that people who answered that they experienced receiving treatment all said they had experienced depression, while those not receiving treatment were split. The second graph focuses on the predicted probabilities of depression across different age groups, considering the treatment status. Those in the 25 & 30 age groups were more likely to receive treatment, while those in the other age groups were less likely to.
+
+
+
+
+
+
 Here are the visuals: 
 
 ![2023-11-24 (2)](https://github.com/agom2429/Project_4/assets/135547605/d1621d68-182a-4cdd-a4fd-96a75b0e77ae)
