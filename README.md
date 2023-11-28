@@ -32,6 +32,8 @@ Here are the visuals:
 
 For our Machine Model we were able to get an accuracy of 84%
 Patrick:
+In summary we built two models, the original model and optimized model. Our original model was able to predict student with depression with a 88% accuracy. We were able to achieve a better accuaracy score with our optimized model. We did that by adding more hidden layers and increasing the epoch(# number of iterations).
+The optimized model achieved an accuracy score of 93%.   
 Here are some examples of our code: 
 
 ![image](https://github.com/agom2429/Project_4/assets/135547605/42bfe624-74df-4bb2-86e0-34c4f64a04a1)
