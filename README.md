@@ -10,7 +10,8 @@ https://www.kaggle.com/datasets/shariful07/student-mental-health/data
 
 Our Data Model Implementation was through SQL.
 Alyssa:
-Here are some examples on how we added the data:
+The data acquisition process for our project involved extracting information from a dedicated SQL database established with SQLite. Initiated by creating the "mental_health.db" database, we proceeded to construct the "Student_mental_health" table within. Subsequently, a connection to the database was established. To verify the successful connection, we implemented a function displaying all the data. Once the connection was confirmed, we transitioned to organizing the data into a pandas DataFrame named "mental.df." This DataFrame became the cornerstone of our project, serving as the primary data structure employed throughout subsequent analyses and tasks related to student mental health.
+
 
 
 ![sql1](https://github.com/agom2429/Project_4/assets/135547605/22483b2e-919f-41b5-a06a-21c3bf0fa0a6)
