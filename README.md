@@ -25,6 +25,9 @@ Here are the visuals:
 
 ![2023-11-24 (2)](https://github.com/agom2429/Project_4/assets/135547605/d1621d68-182a-4cdd-a4fd-96a75b0e77ae)
 ![2023-11-24](https://github.com/agom2429/Project_4/assets/135547605/2c7d8646-912d-4acb-98c6-aa6140435b8d)
+![2023-11-26 (2)](https://github.com/agom2429/Project_4/assets/135547605/5c043b8d-9895-4d65-941b-c6c910fa37a2)
+![2023-11-26 (3)](https://github.com/agom2429/Project_4/assets/135547605/a5ec0b9e-2192-468d-a552-13ffd46a9f67)
+
 
 For our Machine Model we were able to get an accuracy of 84%
 Patrick:
